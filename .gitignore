@@ -1,0 +1,9 @@
+﻿node_modules/
+backend/node_modules/
+.dart_tool/
+mobile/.dart_tool/
+build/
+mobile/build/
+.idea/
+.vscode/
+*.iml

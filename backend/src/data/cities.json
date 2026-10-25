@@ -1,0 +1,68 @@
+[
+  {
+    "id": "ashgabat",
+    "name": {
+      "en": "Ashgabat",
+      "ru": "Ашхабад",
+      "tk": "Aşgabat"
+    },
+    "lat": 37.9601,
+    "lon": 58.3261,
+    "timezone": "Asia/Ashgabat"
+  },
+  {
+    "id": "turkmenabat",
+    "name": {
+      "en": "Turkmenabat",
+      "ru": "Туркменабат",
+      "tk": "Türkmenabat"
+    },
+    "lat": 39.0833,
+    "lon": 63.5667,
+    "timezone": "Asia/Ashgabat"
+  },
+  {
+    "id": "dashoguz",
+    "name": {
+      "en": "Dashoguz",
+      "ru": "Дашогуз",
+      "tk": "Daşoguz"
+    },
+    "lat": 41.8361,
+    "lon": 59.9639,
+    "timezone": "Asia/Ashgabat"
+  },
+  {
+    "id": "mary",
+    "name": {
+      "en": "Mary",
+      "ru": "Мары",
+      "tk": "Mary"
+    },
+    "lat": 37.6006,
+    "lon": 61.8311,
+    "timezone": "Asia/Ashgabat"
+  },
+  {
+    "id": "balkanabat",
+    "name": {
+      "en": "Balkanabat",
+      "ru": "Балканабат",
+      "tk": "Balkanabat"
+    },
+    "lat": 39.5117,
+    "lon": 54.3694,
+    "timezone": "Asia/Ashgabat"
+  },
+  {
+    "id": "turkmenbasy",
+    "name": {
+      "en": "Turkmenbasy",
+      "ru": "Туркменбаши",
+      "tk": "Türkmenbaşy"
+    },
+    "lat": 40.0000,
+    "lon": 52.9667,
+    "timezone": "Asia/Ashgabat"
+  }
+]
